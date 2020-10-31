@@ -1,6 +1,6 @@
 {
   "title": "Get-FileInfoOnContent",
-  "description": "This script will files in a directory based on a filter and pattern and return the files that have that pattern.",
+  "description": "This script will search files in a directory based on a filter and pattern (RegEx or just text) and return the files that have that pattern.",
   "videoUrl": "",
   "categories": ["Search"],
   "languages": ["PowerShell"]
