@@ -3,5 +3,6 @@
   "description": "This script will search files in a directory based on a filter and pattern (RegEx or just text) and return the files that have that pattern.",
   "videoUrl": "",
   "categories": ["Search"],
-  "languages": ["PowerShell"]
+  "languages": ["PowerShell"],
+  "technologies": []
 }
